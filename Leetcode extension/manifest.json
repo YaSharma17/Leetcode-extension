@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "LeetCode Quick Access",
+    "version": "1.0",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/image.png",
+        "48": "icons/image.png",
+        "128": "icons/image.png"
+      }
+    },
+    "icons": {
+      "16": "icons/image.png",
+      "48": "icons/image.png",
+      "128": "icons/image.png"
+    }
+  }
+  
